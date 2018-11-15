@@ -1,0 +1,14 @@
+{
+  "name": "streams",
+  "scripts": {
+    "start:server": "node ./fibo-server"
+  },
+  "author": "Iulian Marcu",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
