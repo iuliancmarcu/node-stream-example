@@ -34,5 +34,4 @@ const server = http.createServer((req, res) => {
 server.listen(3000, () => {
   console.log('Server listening on port 3000');
   console.log('curl localhost:3000?number=1');
-  console.log('curl localhost:3000?number=1&cache=true');
 });

@@ -1,7 +1,10 @@
 {
   "name": "streams",
   "scripts": {
-    "start:server": "node ./fibo-server"
+    "start:server": "node ./fibo-server",
+    "run:stream-fibo": "node ./stream-fibo/run.js",
+    "run:log-fibo": "node ./log-fibo/run.js",
+    "run:last-digit": "node ./last-digit/run.js"
   },
   "author": "Iulian Marcu",
   "license": "ISC",
